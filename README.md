@@ -51,7 +51,7 @@ LingoBoost is a modern web application that makes language learning fun and enga
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/zwezdica/lingoboost_frontend.git
+   git clone https://github.com/zwezdica/lingoboost_module.git
    cd lingoboost
 
 ## 🏃‍♂️ Development Setup
