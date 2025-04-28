@@ -115,6 +115,11 @@ Start development server:
 Open http://localhost:5000 in your browser
 
 
+## 🌐 Production Deployment
+
+The application is currently hosted at:
+https://lingoboost.yunethosting.rs
+
 
 ## 📂 Project Structure
 lingoboost-module/    
