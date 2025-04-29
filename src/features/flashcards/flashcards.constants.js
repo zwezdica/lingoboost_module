@@ -1,4 +1,4 @@
-export const API_URL = "https://lingoboost-backend.onrender.com/api/flashcards";
+export const API_URL = "/api/flashcards";
 
 export const LANGUAGES = [
   { value: "fr", text: "Français" },

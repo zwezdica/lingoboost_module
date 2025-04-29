@@ -1,4 +1,4 @@
-export const API_URL = "https://lingoboost-backend.onrender.com/api/bingo";
+export const API_URL = "/api/bingo";
 
 export const DIFFICULTIES = [
   { value: "easy", text: "Easy" },

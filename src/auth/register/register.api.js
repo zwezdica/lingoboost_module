@@ -1,4 +1,4 @@
-const API_URL = "https://lingoboost-backend.onrender.com/api/auth";
+const API_URL = "/api/auth";
 
 export async function registerUser(userData) {
   try {

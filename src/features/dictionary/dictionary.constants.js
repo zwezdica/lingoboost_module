@@ -1,4 +1,4 @@
-export const API_URL = "https://lingoboost-backend.onrender.com/api/words";
+export const API_URL = "/api/words";
 
 export const LANGUAGES = [
   { value: "fr", text: "French" },

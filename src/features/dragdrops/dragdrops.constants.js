@@ -1,4 +1,4 @@
-export const API_URL = "https://lingoboost-backend.onrender.com/api/dragdrops";
+export const API_URL = "/api/dragdrops";
 export const LANGUAGES = [
   { value: "fr", text: "Français" },
   { value: "es", text: "Español" },

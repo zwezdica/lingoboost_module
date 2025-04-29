@@ -1,4 +1,4 @@
-const API_URL = "https://lingoboost-backend.onrender.com/api/admin";
+const API_URL = "/api/admin";
 const ITEMS_PER_PAGE = 6;
 
 export async function fetchUsers(page = 1, token) {

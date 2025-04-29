@@ -1,5 +1,5 @@
 export const API_ENDPOINTS = {
-  QUIZZES: "https://lingoboost-backend.onrender.com/api/quizzes",
+  QUIZZES: "/api/quizzes",
 };
 
 export const LANGUAGES = [

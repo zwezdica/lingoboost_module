@@ -7,7 +7,7 @@ export async function handleLogin(e) {
 
   try {
     const res = await fetch(
-      "https://lingoboost-backend.onrender.com/api/auth/login",
+      "/api/auth/login",
       {
         method: "POST",
         headers: { "Content-Type": "application/json" },

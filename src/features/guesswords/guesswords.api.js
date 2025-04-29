@@ -1,4 +1,4 @@
-const BASE_URL = "https://lingoboost-backend.onrender.com/api";
+const BASE_URL = "/api";
 
 export async function fetchKeyboard(language) {
   try {
